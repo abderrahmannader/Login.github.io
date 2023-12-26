@@ -1,0 +1,59 @@
+
+body
+{
+    background-color: #24353F;
+}
+
+.box{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6)
+}
+
+h2
+{
+    color: #17A2B8;
+}
+
+input
+{
+    background-color: rgba(0, 0, 0, 0) !important;
+   
+}
+
+::placeholder{
+    color: white !important;
+}
+
+.button1{
+    border: 1px solid #17A2B8 !important;
+    color: #17A2B8;
+}
+
+.button1:hover
+{
+    background-color: #17A2B8;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    transition: 1s;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+.interface
+{
+    padding: 5% 20%;
+    background-color: #24353F;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6)
+   
+}
+
+.nav-bar-color
+{
+    background-color: #24353F;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6)
+}
